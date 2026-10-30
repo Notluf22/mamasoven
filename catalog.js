@@ -39,7 +39,7 @@ const PRODUCTS = [
     "price": 1700,
     "unit": "1 kg",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-wheat-chocolate-cake-butter-icing.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -61,7 +61,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-wheat-oats-pineapple-delight.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -83,7 +83,7 @@ const PRODUCTS = [
     "price": 1550,
     "unit": "1 kg",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-pearl-millet-carrot-banana.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -105,7 +105,7 @@ const PRODUCTS = [
     "price": 1650,
     "unit": "1 kg",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-dates-nuts-wheat.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -127,7 +127,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-pearl-millet-chocolate.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -149,7 +149,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-fig-walnut-whole-wheat.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -171,7 +171,7 @@ const PRODUCTS = [
     "price": 1700,
     "unit": "1 kg",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-wheat-biscoff-jaggery.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -193,7 +193,7 @@ const PRODUCTS = [
     "price": 1700,
     "unit": "1 kg",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-multigrain-nutty.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -215,7 +215,7 @@ const PRODUCTS = [
     "price": 550,
     "unit": "500 g",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-wheat-butter-cookies.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -237,7 +237,7 @@ const PRODUCTS = [
     "price": 550,
     "unit": "500 g",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-oats-nuts-cookies.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -259,7 +259,7 @@ const PRODUCTS = [
     "price": 650,
     "unit": "500 g",
     "source": "images/menu-1.webp",
-    "image": null,
+    "image": "images/products/wholesome-cakes-almond-wheat-cookies.webp",
     "description": "No maida; no white sugar; with jaggery. From Mama’s Oven’s wholesome cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -325,7 +325,7 @@ const PRODUCTS = [
     "price": 1550,
     "unit": "1 kg",
     "source": "images/menu-2.webp",
-    "image": null,
+    "image": "images/products/gluten-free-cakes-sweet-potato-bajra.webp",
     "description": "No maida; no wheat. From Mama’s Oven’s gluten free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -347,7 +347,7 @@ const PRODUCTS = [
     "price": 1900,
     "unit": "1 kg",
     "source": "images/menu-2.webp",
-    "image": null,
+    "image": "images/products/gluten-free-cakes-almond-flour-chocolate.webp",
     "description": "No maida; no wheat. From Mama’s Oven’s gluten free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -369,7 +369,7 @@ const PRODUCTS = [
     "price": 1250,
     "unit": "1 kg",
     "source": "images/menu-2.webp",
-    "image": null,
+    "image": "images/products/gluten-free-cakes-ragi-oats-dates-jaggery.webp",
     "description": "No maida; no wheat. From Mama’s Oven’s gluten free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -391,7 +391,7 @@ const PRODUCTS = [
     "price": 1500,
     "unit": "1 kg",
     "source": "images/menu-2.webp",
-    "image": null,
+    "image": "images/products/gluten-free-cakes-ragi-chocolate.webp",
     "description": "No maida; no wheat. From Mama’s Oven’s gluten free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -413,7 +413,7 @@ const PRODUCTS = [
     "price": 1550,
     "unit": "1 kg",
     "source": "images/menu-2.webp",
-    "image": null,
+    "image": "images/products/gluten-free-cakes-pearl-millet-carrot.webp",
     "description": "No maida; no wheat. From Mama’s Oven’s gluten free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -435,7 +435,7 @@ const PRODUCTS = [
     "price": 1900,
     "unit": "1 kg",
     "source": "images/menu-2.webp",
-    "image": null,
+    "image": "images/products/gluten-free-cakes-almond-flour-honey-vanilla.webp",
     "description": "No maida; no wheat. From Mama’s Oven’s gluten free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -457,7 +457,7 @@ const PRODUCTS = [
     "price": 2300,
     "unit": "1 kg",
     "source": "images/menu-2.webp",
-    "image": null,
+    "image": "images/products/gluten-free-cakes-gluten-free-ragi-plum.webp",
     "description": "No maida; no wheat. From Mama’s Oven’s gluten free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -479,7 +479,7 @@ const PRODUCTS = [
     "price": 1650,
     "unit": "1 kg",
     "source": "images/menu-3.webp",
-    "image": null,
+    "image": "images/products/sugar-free-cakes-vanilla-cake-with-butter-icing.webp",
     "description": "From Mama’s Oven’s sugar free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -501,7 +501,7 @@ const PRODUCTS = [
     "price": 1900,
     "unit": "1 kg",
     "source": "images/menu-3.webp",
-    "image": null,
+    "image": "images/products/sugar-free-cakes-chocolate-cake-with-butter-icing.webp",
     "description": "From Mama’s Oven’s sugar free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -523,7 +523,7 @@ const PRODUCTS = [
     "price": 1700,
     "unit": "1 kg",
     "source": "images/menu-3.webp",
-    "image": null,
+    "image": "images/products/sugar-free-cakes-pineapple-cake.webp",
     "description": "From Mama’s Oven’s sugar free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -545,7 +545,7 @@ const PRODUCTS = [
     "price": 1650,
     "unit": "1 kg",
     "source": "images/menu-3.webp",
-    "image": null,
+    "image": "images/products/sugar-free-cakes-dates-cake.webp",
     "description": "From Mama’s Oven’s sugar free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -567,7 +567,7 @@ const PRODUCTS = [
     "price": 1000,
     "unit": "1 kg",
     "source": "images/menu-3.webp",
-    "image": null,
+    "image": "images/products/sugar-free-cakes-zero-sugar-dates-nuts.webp",
     "description": "From Mama’s Oven’s sugar free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -589,7 +589,7 @@ const PRODUCTS = [
     "price": 1300,
     "unit": "1 kg",
     "source": "images/menu-3.webp",
-    "image": null,
+    "image": "images/products/sugar-free-cakes-cashew-cookies.webp",
     "description": "From Mama’s Oven’s sugar free cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -611,7 +611,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-4.webp",
-    "image": null,
+    "image": "images/products/vegan-cakes-chocolate-ganache.webp",
     "description": "No eggs; no dairy. From Mama’s Oven’s vegan cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -633,7 +633,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-4.webp",
-    "image": null,
+    "image": "images/products/vegan-cakes-vanilla-white-chocolate-ganache.webp",
     "description": "No eggs; no dairy. From Mama’s Oven’s vegan cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -655,7 +655,7 @@ const PRODUCTS = [
     "price": 1900,
     "unit": "1 kg",
     "source": "images/menu-4.webp",
-    "image": null,
+    "image": "images/products/vegan-cakes-almond-coconut.webp",
     "description": "No eggs; no dairy. From Mama’s Oven’s vegan cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -677,7 +677,7 @@ const PRODUCTS = [
     "price": 1400,
     "unit": "1 kg",
     "source": "images/menu-4.webp",
-    "image": null,
+    "image": "images/products/vegan-cakes-carrot-nuts.webp",
     "description": "No eggs; no dairy. From Mama’s Oven’s vegan cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -699,7 +699,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-4.webp",
-    "image": null,
+    "image": "images/products/vegan-cakes-butterscotch.webp",
     "description": "No eggs; no dairy. From Mama’s Oven’s vegan cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -721,7 +721,7 @@ const PRODUCTS = [
     "price": 1550,
     "unit": "1 kg",
     "source": "images/menu-4.webp",
-    "image": null,
+    "image": "images/products/vegan-cakes-dates.webp",
     "description": "No eggs; no dairy. From Mama’s Oven’s vegan cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -743,7 +743,7 @@ const PRODUCTS = [
     "price": 1800,
     "unit": "1 kg",
     "source": "images/menu-4.webp",
-    "image": null,
+    "image": "images/products/vegan-cakes-vegan-plum.webp",
     "description": "No eggs; no dairy. From Mama’s Oven’s vegan cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -787,7 +787,7 @@ const PRODUCTS = [
     "price": 1150,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-nutty-butterscotch.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -809,7 +809,7 @@ const PRODUCTS = [
     "price": 1100,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-white-chocolate-mocha.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -831,7 +831,7 @@ const PRODUCTS = [
     "price": 1450,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-spanish-delight.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -875,7 +875,7 @@ const PRODUCTS = [
     "price": 1000,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-pineapple.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -897,7 +897,7 @@ const PRODUCTS = [
     "price": 1000,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-red-velvet.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -919,7 +919,7 @@ const PRODUCTS = [
     "price": 750,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-black-forest.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -941,7 +941,7 @@ const PRODUCTS = [
     "price": 800,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-white-forest.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -963,7 +963,7 @@ const PRODUCTS = [
     "price": 900,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-strawberry.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -985,7 +985,7 @@ const PRODUCTS = [
     "price": 1000,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-blueberry.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1007,7 +1007,7 @@ const PRODUCTS = [
     "price": 950,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-chocolate-mocha.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1029,7 +1029,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-vancho.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1051,7 +1051,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-red-b.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1073,7 +1073,7 @@ const PRODUCTS = [
     "price": 1150,
     "unit": "1 kg",
     "source": "images/menu-5.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-caramel-praline.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1095,7 +1095,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-nutty-bubble.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1117,7 +1117,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-rasamalai.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1139,7 +1139,7 @@ const PRODUCTS = [
     "price": 1650,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-kitkat.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1161,7 +1161,7 @@ const PRODUCTS = [
     "price": 1650,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-lotus-biscoff.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1183,7 +1183,7 @@ const PRODUCTS = [
     "price": 1800,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-ferraro-rocher.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1205,7 +1205,7 @@ const PRODUCTS = [
     "price": 1400,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-rose-milk-tres-leches.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1227,7 +1227,7 @@ const PRODUCTS = [
     "price": 1750,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-german-chocolate.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1249,7 +1249,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-tender-coconut.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1271,7 +1271,7 @@ const PRODUCTS = [
     "price": 1700,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-russian-honey.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1293,7 +1293,7 @@ const PRODUCTS = [
     "price": 1050,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-chocolate-butter-icing.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1315,7 +1315,7 @@ const PRODUCTS = [
     "price": 1000,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-vanilla-butter-icing.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1337,7 +1337,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-7.webp",
-    "image": null,
+    "image": "images/products/fresh-cream-cakes-chocolate-jaggery-butter-icing.webp",
     "description": "From Mama’s Oven’s fresh cream cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1359,7 +1359,7 @@ const PRODUCTS = [
     "price": 1450,
     "unit": "1 kg",
     "source": "images/menu-6.webp",
-    "image": null,
+    "image": "images/products/butter-icing-cakes-vanilla-cake.webp",
     "description": "From Mama’s Oven’s butter icing cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1381,7 +1381,7 @@ const PRODUCTS = [
     "price": 1550,
     "unit": "1 kg",
     "source": "images/menu-6.webp",
-    "image": null,
+    "image": "images/products/butter-icing-cakes-chocolate-cake-white-icing.webp",
     "description": "From Mama’s Oven’s butter icing cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1403,7 +1403,7 @@ const PRODUCTS = [
     "price": 1650,
     "unit": "1 kg",
     "source": "images/menu-6.webp",
-    "image": null,
+    "image": "images/products/butter-icing-cakes-chocolate-cake-chocolate-icing.webp",
     "description": "From Mama’s Oven’s butter icing cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1425,7 +1425,7 @@ const PRODUCTS = [
     "price": 1850,
     "unit": "1 kg",
     "source": "images/menu-6.webp",
-    "image": null,
+    "image": "images/products/butter-icing-cakes-nutty-butter-scotch.webp",
     "description": "From Mama’s Oven’s butter icing cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1447,7 +1447,7 @@ const PRODUCTS = [
     "price": 1900,
     "unit": "1 kg",
     "source": "images/menu-6.webp",
-    "image": null,
+    "image": "images/products/butter-icing-cakes-vanilla-cake-strawberry-compote.webp",
     "description": "From Mama’s Oven’s butter icing cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1469,7 +1469,7 @@ const PRODUCTS = [
     "price": 2200,
     "unit": "1 kg",
     "source": "images/menu-6.webp",
-    "image": null,
+    "image": "images/products/butter-icing-cakes-vanilla-cake-blueberry-compote.webp",
     "description": "From Mama’s Oven’s butter icing cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1513,7 +1513,7 @@ const PRODUCTS = [
     "price": 800,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-dates-carrot-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1535,7 +1535,7 @@ const PRODUCTS = [
     "price": 800,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-dates-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1557,7 +1557,7 @@ const PRODUCTS = [
     "price": 750,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-carrot-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1579,7 +1579,7 @@ const PRODUCTS = [
     "price": 800,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-butter-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1601,7 +1601,7 @@ const PRODUCTS = [
     "price": 750,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-caramel-tea-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1623,7 +1623,7 @@ const PRODUCTS = [
     "price": 1050,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-ghee-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1645,7 +1645,7 @@ const PRODUCTS = [
     "price": 800,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-marble-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1667,7 +1667,7 @@ const PRODUCTS = [
     "price": 700,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-chocolate-sponge-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1689,7 +1689,7 @@ const PRODUCTS = [
     "price": 750,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-pineapple-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1711,7 +1711,7 @@ const PRODUCTS = [
     "price": 850,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/tea-cakes-strawberry-cake.webp",
     "description": "From Mama’s Oven’s tea cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1733,7 +1733,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/fruit-cakes-butterscotch-fruit.webp",
     "description": "From Mama’s Oven’s fruit cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1755,7 +1755,7 @@ const PRODUCTS = [
     "price": 1000,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/fruit-cakes-royal-plum.webp",
     "description": "From Mama’s Oven’s fruit cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1777,7 +1777,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/fruit-cakes-superrich-plum.webp",
     "description": "From Mama’s Oven’s fruit cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1799,7 +1799,7 @@ const PRODUCTS = [
     "price": 2300,
     "unit": "1 kg",
     "source": "images/menu-8.webp",
-    "image": null,
+    "image": "images/products/fruit-cakes-exotic-plum.webp",
     "description": "From Mama’s Oven’s fruit cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1821,7 +1821,7 @@ const PRODUCTS = [
     "price": 1650,
     "unit": "1 kg",
     "source": "images/menu-9.webp",
-    "image": null,
+    "image": "images/products/new-flavours-tender-coconut-pineapple.webp",
     "description": "From Mama’s Oven’s new flavours menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1843,7 +1843,7 @@ const PRODUCTS = [
     "price": 1650,
     "unit": "1 kg",
     "source": "images/menu-9.webp",
-    "image": null,
+    "image": "images/products/new-flavours-tiramisu-cream.webp",
     "description": "From Mama’s Oven’s new flavours menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1865,7 +1865,7 @@ const PRODUCTS = [
     "price": 1700,
     "unit": "1 kg",
     "source": "images/menu-9.webp",
-    "image": null,
+    "image": "images/products/new-flavours-chocolate-hazelnut-praline.webp",
     "description": "From Mama’s Oven’s new flavours menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1887,7 +1887,7 @@ const PRODUCTS = [
     "price": 1100,
     "unit": "1 kg",
     "source": "images/menu-9.webp",
-    "image": null,
+    "image": "images/products/new-flavours-vanilla-caramel-crunch.webp",
     "description": "From Mama’s Oven’s new flavours menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1931,7 +1931,7 @@ const PRODUCTS = [
     "price": 1800,
     "unit": "1 kg",
     "source": "images/menu-9.webp",
-    "image": null,
+    "image": "images/products/new-flavours-dubai-kubafa-chocolate.webp",
     "description": "From Mama’s Oven’s new flavours menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1975,7 +1975,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-9.webp",
-    "image": null,
+    "image": "images/products/new-flavours-vanilla-streusel.webp",
     "description": "From Mama’s Oven’s new flavours menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -1997,7 +1997,7 @@ const PRODUCTS = [
     "price": 1750,
     "unit": "1 kg",
     "source": "images/menu-9.webp",
-    "image": null,
+    "image": "images/products/new-flavours-lemon-cream-blueberry-compote.webp",
     "description": "From Mama’s Oven’s new flavours menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2041,7 +2041,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-10.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-new-york-cheesecake.webp",
     "description": "Classic Biscuit Base. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2064,7 +2064,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-10.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-chocolate-cheesecake.webp",
     "description": "Classic Biscuit Base. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2110,7 +2110,7 @@ const PRODUCTS = [
     "price": 1700,
     "unit": "1 kg",
     "source": "images/menu-10.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-blueberry-cheesecake.webp",
     "description": "Classic Biscuit Base. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2133,7 +2133,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-10.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-oreo-cheesecake.webp",
     "description": "Classic Biscuit Base. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2179,7 +2179,7 @@ const PRODUCTS = [
     "price": 1750,
     "unit": "1 kg",
     "source": "images/menu-10.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-chocolate-truffle-vancho-cheesecake.webp",
     "description": "Fusion Cake Base. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2202,7 +2202,7 @@ const PRODUCTS = [
     "price": 1500,
     "unit": "1 kg",
     "source": "images/menu-10.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-carrot-cake-cheesecake.webp",
     "description": "Fusion Cake Base. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2225,7 +2225,7 @@ const PRODUCTS = [
     "price": 1850,
     "unit": "1 kg",
     "source": "images/menu-10.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-dark-chocolate-brownie-cheesecake.webp",
     "description": "Fusion Cake Base. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2248,7 +2248,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-10.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-white-chocolate-blondie-cheesecake.webp",
     "description": "Fusion Cake Base. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2271,7 +2271,7 @@ const PRODUCTS = [
     "price": 1850,
     "unit": "1 kg",
     "source": "images/menu-11.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-lotus-biscoff-cheesecake.webp",
     "description": "Premium / Signature. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2294,7 +2294,7 @@ const PRODUCTS = [
     "price": 1850,
     "unit": "1 kg",
     "source": "images/menu-11.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-passionfruit-cheesecake.webp",
     "description": "Premium / Signature. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2317,7 +2317,7 @@ const PRODUCTS = [
     "price": 1850,
     "unit": "1 kg",
     "source": "images/menu-11.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-salted-caramel-pecan-cheesecake.webp",
     "description": "Premium / Signature. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2340,7 +2340,7 @@ const PRODUCTS = [
     "price": 1850,
     "unit": "1 kg",
     "source": "images/menu-11.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-nutella-hazelnut-cheesecake.webp",
     "description": "Premium / Signature. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2363,7 +2363,7 @@ const PRODUCTS = [
     "price": 1850,
     "unit": "1 kg",
     "source": "images/menu-11.webp",
-    "image": null,
+    "image": "images/products/cheese-cakes-strawberry-cheesecake-seasonal.webp",
     "description": "Premium / Signature. From Mama’s Oven’s cheese cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2386,7 +2386,7 @@ const PRODUCTS = [
     "price": 300,
     "unit": "450 g",
     "source": "images/menu-12.webp",
-    "image": null,
+    "image": "images/products/artisan-breads-classic-white-sourdough.webp",
     "description": "Sourdough Boule – Rustic & Crusty. From Mama’s Oven’s artisan breads menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2408,7 +2408,7 @@ const PRODUCTS = [
     "price": 350,
     "unit": "450 g",
     "source": "images/menu-12.webp",
-    "image": null,
+    "image": "images/products/artisan-breads-classic-sourdough-with-multi-seeds.webp",
     "description": "Sourdough Boule – Rustic & Crusty. From Mama’s Oven’s artisan breads menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2430,7 +2430,7 @@ const PRODUCTS = [
     "price": 380,
     "unit": "450 g",
     "source": "images/menu-12.webp",
-    "image": null,
+    "image": "images/products/artisan-breads-classic-sourdough-with-cheese.webp",
     "description": "Sourdough Boule – Rustic & Crusty. From Mama’s Oven’s artisan breads menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2452,7 +2452,7 @@ const PRODUCTS = [
     "price": 420,
     "unit": "450 g",
     "source": "images/menu-12.webp",
-    "image": null,
+    "image": "images/products/artisan-breads-multigrain-sourdough.webp",
     "description": "Sourdough Boule – Rustic & Crusty. From Mama’s Oven’s artisan breads menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2474,7 +2474,7 @@ const PRODUCTS = [
     "price": 420,
     "unit": "450 g",
     "source": "images/menu-12.webp",
-    "image": null,
+    "image": "images/products/artisan-breads-chocolate-chip-sourdough.webp",
     "description": "Sourdough Boule – Rustic & Crusty. From Mama’s Oven’s artisan breads menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2496,7 +2496,7 @@ const PRODUCTS = [
     "price": 400,
     "unit": "450 g",
     "source": "images/menu-12.webp",
-    "image": null,
+    "image": "images/products/artisan-breads-rosemary-oregano.webp",
     "description": "Sourdough Focaccia – Fluffy Italian Flatbread. From Mama’s Oven’s artisan breads menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2518,7 +2518,7 @@ const PRODUCTS = [
     "price": 450,
     "unit": "450 g",
     "source": "images/menu-12.webp",
-    "image": null,
+    "image": "images/products/artisan-breads-cheddar-jalape-o.webp",
     "description": "Sourdough Focaccia – Fluffy Italian Flatbread. From Mama’s Oven’s artisan breads menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2540,7 +2540,7 @@ const PRODUCTS = [
     "price": 450,
     "unit": "450 g",
     "source": "images/menu-12.webp",
-    "image": null,
+    "image": "images/products/artisan-breads-honey-walnuts-sweet.webp",
     "description": "Sourdough Focaccia – Fluffy Italian Flatbread. From Mama’s Oven’s artisan breads menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2562,7 +2562,7 @@ const PRODUCTS = [
     "price": 450,
     "unit": "Medium",
     "source": "images/menu-13.webp",
-    "image": null,
+    "image": "images/products/sourdough-pizza-classic-sourdough-cheese.webp",
     "description": "From Mama’s Oven’s sourdough pizza menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2589,7 +2589,7 @@ const PRODUCTS = [
     "price": 600,
     "unit": "Medium",
     "source": "images/menu-13.webp",
-    "image": null,
+    "image": "images/products/sourdough-pizza-chicken-onion.webp",
     "description": "From Mama’s Oven’s sourdough pizza menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2616,7 +2616,7 @@ const PRODUCTS = [
     "price": 500,
     "unit": "Medium",
     "source": "images/menu-13.webp",
-    "image": null,
+    "image": "images/products/sourdough-pizza-veggie-delight-paneer-capsicum-onion.webp",
     "description": "From Mama’s Oven’s sourdough pizza menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2643,7 +2643,7 @@ const PRODUCTS = [
     "price": 650,
     "unit": "Medium",
     "source": "images/menu-13.webp",
-    "image": null,
+    "image": "images/products/sourdough-pizza-multigrain-ragi-wheat-bread-flour.webp",
     "description": "From Mama’s Oven’s sourdough pizza menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2670,7 +2670,7 @@ const PRODUCTS = [
     "price": 900,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-black-forest.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2714,7 +2714,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-nutty-butterscotch.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2736,7 +2736,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-pineapple-cream-delight.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2758,7 +2758,7 @@ const PRODUCTS = [
     "price": 1000,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-white-forest.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2780,7 +2780,7 @@ const PRODUCTS = [
     "price": 1200,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-strawberry.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2802,7 +2802,7 @@ const PRODUCTS = [
     "price": 1450,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-butterscotch-fruit.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2824,7 +2824,7 @@ const PRODUCTS = [
     "price": 1500,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-plum.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2846,7 +2846,7 @@ const PRODUCTS = [
     "price": 900,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-dates-nuts.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2868,7 +2868,7 @@ const PRODUCTS = [
     "price": 900,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-carrot-dates.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2890,7 +2890,7 @@ const PRODUCTS = [
     "price": 1300,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-vancho.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2912,7 +2912,7 @@ const PRODUCTS = [
     "price": 1300,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-chocolate-mocha.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2934,7 +2934,7 @@ const PRODUCTS = [
     "price": 1450,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-spanish-delight.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2956,7 +2956,7 @@ const PRODUCTS = [
     "price": 2000,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-pure-chocolate-bliss.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -2978,7 +2978,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-ragi-banana-walnut.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3000,7 +3000,7 @@ const PRODUCTS = [
     "price": 1600,
     "unit": "1 kg",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-wheat-oats-nutty-jaggery.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3022,7 +3022,7 @@ const PRODUCTS = [
     "price": 550,
     "unit": "500 g",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-snowball-cookies.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3044,7 +3044,7 @@ const PRODUCTS = [
     "price": 950,
     "unit": "500 g",
     "source": "images/menu-0.webp",
-    "image": null,
+    "image": "images/products/eggless-cakes-double-choco-brownie.webp",
     "description": "Made with unbleached, chemical free cake flour. From Mama’s Oven’s eggless cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3066,7 +3066,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-tender-coconut-pineapple.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3088,7 +3088,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-tiramisu-cream.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3110,7 +3110,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-chocolate-hazelnut-praline.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3132,7 +3132,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-vanilla-caramel-crunch.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3176,7 +3176,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-dubai-kubafa-chocolate.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3220,7 +3220,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-fig-honey.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3242,7 +3242,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-lemon-cream-blueberry-compote.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3286,7 +3286,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-kinder-brownie-cake.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3308,7 +3308,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-matcha-white-chocolate.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3352,7 +3352,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-15.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-vanilla-streusel.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3396,7 +3396,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-nutty-butterscotch.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3418,7 +3418,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-white-chocolate-mocha.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3440,7 +3440,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-spanish-delight.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3484,7 +3484,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-pineapple.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3506,7 +3506,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-red-velvet.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3528,7 +3528,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-black-forest.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3550,7 +3550,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-white-forest.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3572,7 +3572,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-strawberry.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3594,7 +3594,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-blueberry.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3616,7 +3616,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-chocolate-mocha.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3638,7 +3638,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-vancho.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3660,7 +3660,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-red-b.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [
@@ -3682,7 +3682,7 @@ const PRODUCTS = [
     "price": null,
     "unit": "1 kg",
     "source": "images/menu-16.webp",
-    "image": null,
+    "image": "images/products/celebration-cakes-caramel-praline.webp",
     "description": "Theme Cake Flavours – custom design quoted separately. From Mama’s Oven’s celebration cakes menu.",
     "ingredients": "Please ask us for the full ingredients and allergen information.",
     "options": [

@@ -25,3 +25,4 @@ Supported formats:
 - **Aspect Ratio**: Square (1:1) or 4:3 landscape works best.
 - **Resolution**: 800×800 to 1200×1200 pixels is ideal.
 - **Lighting**: Warm, bright daylight showcasing the cake texture, toppings, or crumb.
+
