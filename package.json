@@ -1,0 +1,21 @@
+{
+  "name": "mamas-oven-website",
+  "version": "1.0.0",
+  "description": "Mama's Oven artisan bakery catalog website with WhatsApp ordering and product gallery",
+  "main": "app.js",
+  "scripts": {
+    "start": "node -e \"const http=require('http'),fs=require('fs'),path=require('path');http.createServer((q,s)=>{let p=path.join('.',q.url==='/'?'index.html':q.url.split('?')[0]);if(fs.existsSync(p)&&fs.statSync(p).isFile())fs.createReadStream(p).pipe(s);else s.writeHead(404).end('Not found');}).listen(3000,()=>console.log('Mama’s Oven site running at http://localhost:3000'));\"",
+    "link-images": "node link-images.js",
+    "image-status": "node link-images.js --status"
+  },
+  "keywords": [
+    "bakery",
+    "cakes",
+    "sourdough",
+    "artisan",
+    "whatsapp-ordering",
+    "catalog"
+  ],
+  "author": "Mama's Oven",
+  "license": "ISC"
+}

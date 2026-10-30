@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Our Complete Menu | Mama’s Oven Bakes & Cakes</title>
+  <meta name="description" content="Explore over 160 artisanal cakes, healthy wholesome bakes, vegan desserts, and fresh sourdough breads. Enquire directly on WhatsApp.">
+  
+  <meta property="og:title" content="Mama’s Oven Bake Menu | 166 Handcrafted Items">
+  <meta property="og:description" content="Explore cakes, pastries, breads and pizzas. Customize your order and message us on WhatsApp.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="images/chocolate.webp">
+  
+  <link rel="icon" href="images/logo.webp" type="image/webp">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to main content</a>
+  
+  <div class="top">MAMA’S OVEN · FRESHLY BAKED TO ORDER · DIRECT WHATSAPP ORDERS</div>
+
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="index.html">
+        <img src="images/logo.webp" alt="Mama’s Oven logo" width="52" height="52">
+        <span>Mama’s Oven</span>
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="navigation">Menu</button>
+      <nav id="navigation" class="links" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="menu.html" aria-current="page">Our Menu</a>
+        <a href="index.html#how-to-order">How It Works</a>
+        <a href="index.html#story">Our Story</a>
+        <a href="index.html#faq">FAQs</a>
+        <a class="btn wa-btn general-order" href="https://wa.me/919745762111" target="_blank" rel="noopener">
+          WhatsApp Us ↗
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="wrap section">
+      <div class="menu-header">
+        <div class="eyebrow"><span class="tiny-line"></span> Baked Fresh For Sharing</div>
+        <h1>Our Little Bakebook.</h1>
+        <p style="font-size: 16px; max-width: 550px;">From a comforting everyday slice with evening tea to showstopping celebration centerpieces. Every bake is made from scratch with authentic ingredients.</p>
+        <p class="small text-muted">Prices are per 1 kg unless a specific pack size (e.g. 500 g cookies or 450 g sourdough) is specified.</p>
+      </div>
+
+      <!-- Controls: Search & Category Filter Bar -->
+      <div class="menu-controls">
+        <div class="search-wrapper">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+          <input class="search-input" id="search" type="search" placeholder="Search cakes, breads, ingredients (e.g. ragi, pistachio, sourdough)..." aria-label="Search bakes catalog">
+          <button type="button" class="search-clear" id="search-clear" aria-label="Clear search">×</button>
+        </div>
+
+        <!-- Quick Dietary Tags Filter -->
+        <div class="diet-filter-bar" id="dietary-filters" aria-label="Filter by dietary preferences">
+          <span class="diet-filter-label">Dietary Filters:</span>
+          <button type="button" class="diet-chip active" data-diet="all">All Bakes</button>
+          <button type="button" class="diet-chip" data-diet="eggless">🥚 Eggless</button>
+          <button type="button" class="diet-chip" data-diet="gluten-free">✨ Gluten-Free</button>
+          <button type="button" class="diet-chip" data-diet="sugar-free">🍯 No White Sugar</button>
+          <button type="button" class="diet-chip" data-diet="vegan">🌱 Vegan</button>
+          <button type="button" class="diet-chip" data-diet="breads">🍞 Sourdough & Breads</button>
+        </div>
+
+        <!-- Horizontal Category Pills -->
+        <div class="filters-scroll" id="filters" role="tablist" aria-label="Categories"></div>
+
+        <!-- Result Status -->
+        <div class="result-bar">
+          <span id="result-count" role="status">Loading bakes...</span>
+          <span class="small text-muted">Click any bake for custom weights & WhatsApp ordering</span>
+        </div>
+      </div>
+
+      <!-- Products Grid -->
+      <div class="grid" id="products"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap footer-grid">
+      <div>
+        <h3>Mama’s Oven</h3>
+        <p>A little warmth. A lovely bake.<br>Something special worth sharing for every milestone and quiet cup of tea.</p>
+      </div>
+
+      <div>
+        <strong>Explore</strong>
+        <p>
+          <a href="menu.html">Full Bake Menu</a><br>
+          <a href="index.html#how-to-order">How It Works</a><br>
+          <a href="index.html#story">Our Story</a><br>
+          <a href="index.html#faq">Ordering FAQs</a>
+        </p>
+      </div>
+
+      <div>
+        <strong>Get in Touch</strong>
+        <p>
+          <a href="tel:+919745762111">+91 97457 62111</a><br>
+          <span class="address">Mama’s Oven Studio · Kozhikode, Kerala</span><br>
+          <span class="hours">Tue – Sun: 9:30 AM – 8:00 PM</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="wrap footer-bottom">
+      <div>© Mama’s Oven · Artisanal Bakery · All rights reserved.</div>
+      <div>Custom theme cakes quoted on WhatsApp. Prices subject to seasonal ingredients.</div>
+    </div>
+  </footer>
+
+  <!-- Floating WhatsApp CTA -->
+  <a class="floating general-order" href="https://wa.me/919745762111" target="_blank" rel="noopener" aria-label="Chat with Mama’s Oven on WhatsApp">
+    <svg class="icon-wa" viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.335-1.662c1.746.953 3.71 1.456 5.711 1.457h.004c6.554 0 11.89-5.335 11.893-11.893a11.82 11.82 0 00-3.488-8.482z"/></svg>
+    <span>Chat with Baker</span>
+  </a>
+
+  <script src="catalog.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
